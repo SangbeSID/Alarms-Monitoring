@@ -6,9 +6,9 @@ departments are automatically informed with all
 required information (the building, the room, etc...)
 <br/><br/>
 <div align="center">
-  <img src="alarm_monitoring.png" alt="alarm_view" height="500px" width="500px"/>
+  <img src="alarm_monitoring.png" alt="alarm_view" height="500px" width="700px"/>
  </div>
 <br/><br/>
 <div align="center">
-  <img src="alarm_monitoring_2.png" alt="alarm_view" height="500px" width="500px"/>
+  <img src="alarm_monitoring_2.png" alt="alarm_view" height="500px" width="700px"/>
  </div>
